@@ -11,17 +11,7 @@ extern "C"
 #include "libswscale/swscale.h"
 #include <libavutil/time.h>
 }
-//
-//extern "C" JNIEXPORT jstring JNICALL
-//Java_com_maniu_ffmpegpalyer_MainActivity_stringFromJNI(
-//        JNIEnv* env,
-//        jobject /* this */) {
-////    返回ffempg的配置信息
-////兼容性  不存 cpu
-////ffmepg 命令 在
-//    std::string hello = avcodec_configuration();
-//    return env->NewStringUTF(hello.c_str());
-//}
+
 #include <android/log.h>
 
 #include <android/native_window_jni.h>
