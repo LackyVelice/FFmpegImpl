@@ -1,0 +1,7 @@
+Executable : /Users/cwb/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/cwb/Desktop/study/MNStudy/FFmpegPalyer/app/.cxx/cmake/debug/armeabi-v7a
+native-lib
+jvmArgs : 
+
