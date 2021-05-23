@@ -64,4 +64,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public native int play(String url, Surface surface);
+    
+    public void test(){
+        
 }
